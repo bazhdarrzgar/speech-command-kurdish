@@ -1,3 +1,4 @@
 ## Demo of the work
 
-<video src="video/video.mp4" controls></video>
+https://user-images.githubusercontent.com/106283737/221422050-e369860d-c261-4718-abc7-dd248df405e9.mp4
+
